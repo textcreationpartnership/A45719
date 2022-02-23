@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands faithful physician, or, Precious soul-saving and soul-searching remedies through grace faithfully applyed for the healing and preserving this sinful, sick nation from ruine and destruction whereby this heavy judgment of God in visiting us with the plague and pestilence which we have lain under may upon our hearty and unfeigned repentance, may be prevented for the future among us : together with a speedy way to grace and salvation through together with a speedy way to grace and salvation through Jesus Christ.</title>
+            <author>Hart, John, D.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45719</idno>
+            <idno type="STC">Wing H947</idno>
+            <idno type="STC">ESTC R29865</idno>
+            <idno type="EEBO-CITATION">11215970</idno>
+            <idno type="OCLC">ocm 11215970</idno>
+            <idno type="VID">46844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45719)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1444:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands faithful physician, or, Precious soul-saving and soul-searching remedies through grace faithfully applyed for the healing and preserving this sinful, sick nation from ruine and destruction whereby this heavy judgment of God in visiting us with the plague and pestilence which we have lain under may upon our hearty and unfeigned repentance, may be prevented for the future among us : together with a speedy way to grace and salvation through together with a speedy way to grace and salvation through Jesus Christ.</title>
+                  <author>Hart, John, D.D.</author>
+               </titleStmt>
+               <extent>23 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by P.L. for William Thackeray ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Hart.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:46844:1"/>
+            <pb facs="tcp:46844:1"/>
+            <p>Englands faithful Phyſitian.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:46844:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:46844:2" rendition="simple:additions"/>
+            <p>ENGLANDS FAITHFUL <hi>PHYSICIAN,</hi> OR Precious Soul-ſaving and Soul-ſearching Remedies through Grace faithfully ap<g ref="char:EOLhyphen"/>plyed for the healing and preſerving this ſinful ſin ſick Nation from ru<g ref="char:EOLhyphen"/>ine and Deſtruction.</p>
+            <p>Whereby this heavy Judgment of God in viſiting us with the Plague and Peſti<g ref="char:EOLhyphen"/>lence, which we have lain under may upon our hearty, and unfeined repentance be prevented for the future among us.</p>
+            <p>Together with a ſpeedy way to Grace and Salvation through Jeſus Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>Jer. 8 22</hi>
+               </bibl>
+               <p>Is there no balm in <hi>Gilead</hi> is there no Phyſician there? Why then is not the health of the daughter of my people recovered</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Hoſ. 6.1.</hi>
+               </bibl>
+               <p>Come and let us return unto the Lord, for he hath torn and he will heal us he hath ſmitten, and he will bind us up.</p>
+            </q>
+            <p>Printed by <hi>P. L.</hi> for <hi>William Thackeray</hi> at the Angel in Duck-lane. 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46844:3"/>
+            <pb facs="tcp:46844:3"/>
+            <head>
+               <hi>ENGLANDS</hi> Faithful Phyſitian,</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Iſaiah 1.16, 17, 18, 19, 26.</hi>
+                  </bibl>
+                  <p>Waſh you make you clean, put away the evil of your doings from before <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eyes, ceaſe to do evil.</p>
+                  <p>Learn to do well, ſeek judgement, re<g ref="char:EOLhyphen"/>lieve the oppreſſed, judge the fatherleſs, plead for the Widdow.</p>
+                  <p>Come now and let us reaſon together, ſaith the Lord: though your ſins be as ſcarlet, they ſhall be as white as ſnow, though they be red as crimſon, they ſhall be as wooll.</p>
+                  <p>If ye be willing and obedient, ye ſhall eat the good of the Land.</p>
+                  <p>But if ye refuſe and rebell ye ſhall be devoured with the ſword: For the mouth of the Lord hath ſpoken it.</p>
+               </q>
+            </epigraph>
+            <p>IN the beginning of the Chapter, be<g ref="char:EOLhyphen"/>loved we find the Prophet <hi>Iſaiah</hi> bit<g ref="char:EOLhyphen"/>terly bewailing and lamenting the ſin<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:46844:4"/>eſtate and condition of the children of <hi>Iſrael</hi> and I think now if ever there is a great cauſe to bewait and lament the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſick eſtate and condition of this Na<g ref="char:EOLhyphen"/>tion as the Prophet <hi>Jeremiah</hi> once ſaid of the Jews, in <hi>Jerem.</hi> 9 1. ſo ſay I of this ſinfull Nation, O that my head were water and mine eyes were a fountain of tears that I might weep day and night for the ſlain of the daughter of my people.</p>
+            <p>In the words now read unto you, he comes like a faithful Phyſician to ſhew them the means of their recovery, and like a wiſe Phyſician he firſt endea<g ref="char:EOLhyphen"/>vours to ſearch out the cauſe and depth of their wound, that ſo having found out the nature of their diſeaſe, he might the better know how to preſcribe reme<g ref="char:EOLhyphen"/>dies for their cure.</p>
+            <p>And the more to aggravate the hain<g ref="char:EOLhyphen"/>ouſneſs of their ſins in the ſecond verſe he calls Heaven and Earth to witneſs againſt them. <hi>Hear, O heavens, and give ear, O earth, for the mouth of the Lord hath ſpoken.</hi> I do not ſpeak after the fancies and the immaginations of my own heart, as too too many do in theſe
+<pb facs="tcp:46844:4"/>our days No, but the mouth of the Lord hath ſpoken it I have nouriſhed and brought up children and they have rebelled againſt me.</p>
+            <p>O horrid iniquity<g ref="char:punc">▪</g>What ſinful men to ſtand it out and rebell againſt the Lord their maker. Why ſaith the Prophet for the very Ox and the Aſs ſhall riſe up in judgement againſt ſuch rebel<g ref="char:EOLhyphen"/>lous ſinners as theſe.</p>
+            <p>In the third verſe ſaith he. The Ox knoweth his owner and the Aſs his Ma<g ref="char:EOLhyphen"/>ſters crib but <hi>Iſrael</hi> doth not know, my people doth not conſider.</p>
+            <p>And is not <hi>England</hi> at this very day as inſenſible and forgetful of God as they were, and this their ſinful ſtupi<g ref="char:EOLhyphen"/>dity provokes the Prophets in the next words bitterly to lament and bewall the ſinful eſtate and condition of thoſe people. Ah ſinful Nation ſaith he in the third verſe, a people laden with iniquity, a ſeed of evil dooers, children that are corrupters they have forſaken the Lord, they have provoked the Holy one of <hi>Iſrael</hi> unto anger they are gone away backward gone away I, and ſo far gone that God e<g ref="char:EOLhyphen"/>ven as it were gives them up for loſt, for
+<pb facs="tcp:46844:5"/>the more God punished them for their ſin, the more they did perſevere in there ſin.</p>
+            <p>
+               <hi>Why ſhould ye be ſtricken any more,</hi> ſaith God in the firſt verſe. <hi>The more I bett you the worſe you are <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ye will revolt more and more</hi> ye are univer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally tain<g ref="char:EOLhyphen"/>ted and infected with the poiſon of ſin, even to your very hearts; <hi>the whole head is ſick<g ref="char:punc">▪</g> the whole heart is faint, from the ſole of the foot even to the head, there is no ſoundneſs in it but wounds and bruiſes, and putrifying ſores they have not been cloſed neither bound up neither mollified with ointment.</hi>
+            </p>
+            <p>They were ſo far gone in ſin and miſery that had it not been for the ſake of ſome few righteous perſons that were among them they had been deſtroyed even as <hi>Sodom</hi> and <hi>Gomorrah</hi> were deſtroyed by fire from heaven; a fearful example for ſinners to take warning by, verſe 6. <hi>Except the Lord of hoſts had left us a very ſmall remnant, we ſhould have been a So<g ref="char:EOLhyphen"/>dom, and like unto Gomorrah</hi> yet not<g ref="char:EOLhyphen"/>withſtanding they returned not and thereupon the Lord abhorred them and their Sacrifices as loathſome in his
+<pb facs="tcp:46844:5"/>ſight: <hi>To what purpoſe is the multitude of your ſacrifices unto me ſaith the Lord? your new moons and your appointed feaſts my ſoul hateth, they are a trouble to me, I am weary to bear them: When you ſpread forth your hands I will hide mine eyes; yea when you make many prayers I will not hear.</hi>
+            </p>
+            <p>Why what is the reaſon of all this? <hi>Why,</hi> ſaith he in verſe 15. <hi>Your hands are full of blood,</hi> From whence; be<g ref="char:EOLhyphen"/>ſeech you take this note, that bloud<g ref="char:EOLhyphen"/>guiltineſs is a damning ſin in the ſight of God, <hi>Bloody and deceitfull men,</hi> ſaith <hi>David</hi> in the 25. <hi>Pſalm</hi> and the 23 verſe, <hi>Shall not live out half their days. He that ſheds mans blood, by man ſhall his blood be ſhed,</hi> ſaith the Lord bloudthirſty men are an abomination to the Lord.</p>
+            <p>Having as it were ript up and laid open the horridneſs of their ſins, he comes now like a merciful God to pro<g ref="char:EOLhyphen"/>claim pardon to blood guilty ſinners, if they will but return and wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h them<g ref="char:EOLhyphen"/>ſelves: yet there is mercy to be had, even for the greateſt of ſinners upon re<g ref="char:EOLhyphen"/>pentaunce, <hi>Iſa.</hi> 55 11. <hi>Let the wicked for<g ref="char:EOLhyphen"/>ſake his way, and the unrighteous man his</hi>
+               <pb facs="tcp:46844:6"/>thoughts and let him return unto the Lord and he will have mercy upon him, and to our God for he will abundantly pardon. Your hands are full of bloud ye are altogether all over defiled &amp; polluted with ſin, yet ſaith he verſe 16. Waſh you make you clean put away the evil of your doing from before mine eyes, ceaſe to do evil learn to do well, ſeek judgment, relieve the oppreſſed, judge the fatherleſs, plead for the widdow and then ſee what I will do unto you Come now, and let us reaſon together ſaith the Lord though your ſins be as ſcarlet they ſhall be as white as ſnow, though they be red like crimſon they ſhall be as wool. If ye be willing and obedient, ye ſhall eat the good of the Land, but if you refuſe and rebel, ye ſhall be devoured with the ſword. For the mouth of the Lord hath ſpoken it.</p>
+            <p>Thus having briefly opened the words unto you, I ſhall as briefly as I can pro<g ref="char:EOLhyphen"/>ceed to Application.</p>
+            <p n="1">1 <hi>Jeruſalem</hi> ye know was called the holy City of God, and unto the people of <hi>Iſrael</hi> above all other Nations in the world did God manifeſt his love and I pray you what nation or people is
+<pb facs="tcp:46844:6"/>there at this day to whom God hath ſo manifeſtly appeared, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s unto us May not the people of <hi>England</hi> as well as of <hi>Judah</hi> be called the people of God the joy of the whole earth.</p>
+            <p>What Nation or people is there at this day in the world that hath ſtatutes and judgements like unto us is their any nation under the ſun that hath ſuch plenty of the means of grace as we have: Have we not line upon line, pre<g ref="char:EOLhyphen"/>cept upon precept, Sermon upon Ser<g ref="char:EOLhyphen"/>mon Mercy upon Mercy one mercy up<g ref="char:EOLhyphen"/>on the neck of another, mercy for our bodies peace and plenty in abundance: mercy for our ſouls, the glorious light and liberty of the Goſpel, and yet not<g ref="char:EOLhyphen"/>withſtanding we remain as ſinfull as ever<g ref="char:punc">▪</g> Are not we with <hi>Capernaum</hi> lift<g ref="char:EOLhyphen"/>ed up to heaven in Goſpel mercies: I pray God we be not for our unbelief and unfaithfulneſs under all the means of grace thrown down ere long to hell in Goſpel vengeance.</p>
+            <p>Did the Lord by fire from heaven utterly deſtroy <hi>Sodom</hi> and <hi>Gomorrah,</hi> with the Cities about them, for their ſins who never had the Goſpel preacht
+<pb facs="tcp:46844:7"/>amongſt them aſſuredly then if we, who have the Goſpel ſo abundantly, repent not we alſo ſhall likewiſe periſh: For let me tell you in the words of the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Heb.</hi> 10.26. <hi>If we ſin wilfully after we have received the knowledge of the truth, there remains no more ſacrifice for ſins, but a certain fearful looking for of judgement, and fiery indignation.</hi> For as <hi>Jude</hi> ſaith, <hi>Behold the Lord cometh with ten thouſand of his Saints, to execute judgement upon all; and to convince all that are ungodly.</hi>
+            </p>
+            <p>O ſinners conſider I beſeech you 'tis time to look about you: O conſider what will everlaſtingly become of thy precious and immortal Soul: is life and Salvation worth nothing? <hi>Chriſt offers life and ſalvation to every one of you and will not ye come to him that ye may have life, life everlaſting</hi> O for the Lords ſake ſinners do not delay the time any longer now is the day of ſalvation, get life and ſalvation when it may be had, do not leave the undone, which will be the utter undoing of thy own ſoul: if the work of grace and turning to God be repentance be left undone, thy ſoul
+<pb facs="tcp:46844:7"/>will be undone; had you rather loſe your ſouls then leave your ſins? O what fools and madmen are ye ſinners to neglect an inheritance with the Saints in light, an everlaſting king<g ref="char:EOLhyphen"/>dom and Crown of Glory, for a few baſe ſinful pleaſures, whoſe latter end will be bitterneſs.</p>
+            <p>O ſinners I beſeech you, for the Lords ſake I beſeech you, let the time paſt of your lives ſuffice you to have lived in ſin <hi>and now even now while it is called to day, that ye would conſider the things which concern your everlaſting peace:</hi> You do not know whether ever ye ſhall have another call or no: this may be for ought you know the laſt hour of the day to you: death is at hand, the bell muſt toll, thy ſoul and body muſt part, and if it part in ſin, it ſhall meet again in ſorrow.</p>
+            <p>Is there any thing of greater concern<g ref="char:EOLhyphen"/>ment to you then the ſalvation of your ſouls? I am ſure there is not. The re<g ref="char:EOLhyphen"/>demption of the ſoul is precious nothing but the bloud of Chriſt is able to ſave a ſoul: and will ye deſpiſe and trample up<g ref="char:EOLhyphen"/>on that bloud by which you may be ſaved<g ref="char:punc">▪</g>
+            </p>
+            <pb facs="tcp:46844:8"/>
+            <p>Conſider that of our Saviour. What ſhall it profit a man to gain the whole world and loſe his own ſoul<g ref="char:punc">▪</g> Ten thou<g ref="char:EOLhyphen"/>ſand worlds will never be able to coun<g ref="char:EOLhyphen"/>tervai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the loſs of one ſoul. I beſeech you then in the words of the Prophet Waſh you make you clean the bloud of Chriſt is as a fountain opened for you to waſh you from your ſins put a way then the evil of your doings ceaſe to do e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll learn to do well, and then who knows whe<g ref="char:EOLhyphen"/>ther the Lord will turn and have mercy upon us.</p>
+            <p>See what the Lord ſaith, <hi>Jer.</hi> 16 17. Amend your ways and your doings end obey the voice of the Lord your God, and the Lord will repent him of the evil he hath pronounced againſt you. If you will unfei<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dly repent you of your ſins, God will certainly repent him of his puniſhments as he did unto the <hi>Nine<g ref="char:EOLhyphen"/>vites,</hi> Yet forty days ſaith the Lord and <hi>Nineve</hi> ſhall be deſtroyed, and yet you ſee upon their ſpeedy and unfeined re<g ref="char:EOLhyphen"/>pentance the Lord was appeaſed.</p>
+            <p>Now ſurely <hi>Englands</hi> ſins cry a loud in the ears of God for judgments upon us, may not God ſay unto us as the Prophet
+<pb facs="tcp:46844:8"/>
+               <hi>Iſaiah</hi> ſaith <hi>Iſa,</hi> 5. O <hi>England</hi> what could I have done more then I have done unto thee? How hath the Lord as it were digged about us with a wall of defence, in preſerving us from thoſe judgements which other nations have ſo ſeverely taſted of: how hath God kept us from the hands of bloudy perſecutors: how hath the Lord appeared to us in preſer<g ref="char:EOLhyphen"/>ving us from the devouring ſword, that we have not as other Nations been ſwept away in a moment by the raging of cruel enemies.</p>
+            <p>What heavenly and bleſſed influences of the Goſpel we have long enjoyed: Ah, but how little fruit have we brought forth: We have not lived Goſpel lives, neither have our converſations been ſui<g ref="char:EOLhyphen"/>table to it. Inſtead of grapes we have brought forth wild grapes: this many years hath God waited upon us ex<g ref="char:EOLhyphen"/>pecting fruits of repentance, and emend<g ref="char:EOLhyphen"/>ment of life, and may we not fear if we do not ſuddenly repent us that God may as he ſaid of that fruitleſs fig tree, cut us down and deſtroy us: for hither<g ref="char:EOLhyphen"/>to we have brought forth nothing but leaves, the leaves of profeſſion: we have
+<pb facs="tcp:46844:9"/>proteſt much of the knowledge of God, but how little of the power and practice of Religion and Holineſs hath appeared in our lives and converſations.</p>
+            <p>Doth not envy and wrath, and malice, and all manner of wickedneſs and cru<g ref="char:EOLhyphen"/>elties abound at this day? Hath God given us our lives for a prey, and ſhall we thus wickedly require the Lord? Ah ſinful Nation and unthankful people, laden with iniquity: ſhall the mercy of God in ſparing us thus long, and giving us ſo long a time of repentance incou<g ref="char:EOLhyphen"/>rage and imbolden us in our ſins God forbid. <hi>The grace of God,</hi> ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Tit 2. that brings ſalvation, teaches us, that denying ungodlyneſs and worldly luſts, we ſhould live ſoberly, righteouſly, and godly in this preſent world.</hi> There is no getting to heaven in the broad way of ſin: <hi>for broad is the way</hi> ſaith our Sa<g ref="char:EOLhyphen"/>viour, <hi>that leadeth unto death?</hi> heaven would no more become an impenitent wicked ſinner, then the moſt lovely and coſtly Palace of the greateſt Empe<g ref="char:EOLhyphen"/>ror, would become a ſwine that has been wolowing in the mire.</p>
+            <p>Heaven is a City of happineſs, ever<g ref="char:EOLhyphen"/>laſting
+<pb facs="tcp:46844:9"/>
+               <pb facs="tcp:46844:10"/>
+               <pb facs="tcp:46844:10"/>happineſs, and there is no co<g ref="char:EOLhyphen"/>ming thither but through the gates of holineſs, <hi>without holineſs no man ſhall ſee God,</hi> Heb. 22 14 The good Lord awaken every ſinful ſoul out of their ſe<g ref="char:EOLhyphen"/>curity: that ſo the judgements we now feel in this our viſitation may be remo<g ref="char:EOLhyphen"/>ved, and the judgements of God we fear, may by our true and timely repentance be prevented for it is greatly to be feared that the Lord hath a controver<g ref="char:EOLhyphen"/>ſie, even a very great controverſie with this ſinful Land and Nation.</p>
+            <p>How juſtly might ruine and deſtru<g ref="char:EOLhyphen"/>ction come upon us by the ſword, or by the Plague and that lately ſwept away may thouſands of our neighbours round about us; or by fa<g ref="char:EOLhyphen"/>mine or by ſome other extraordinary judgement, or by all theſe together, becauſe we have been ſo unholy and ſo unthankful for our Peace, and ſo forget<g ref="char:EOLhyphen"/>ful of God in preſerving of us <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>us long from thoſe ſore and heavy judgements that now are juſtly falſe upon us See <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſad Scripture for this in <hi>Hoſ.</hi> 4.1.2 3. <hi>Hear the word of the Lord ye children of Iſrael, for the Lord hath a controverſie
+<pb facs="tcp:46844:11"/>with the inhabitants of the Land, becauſe there is no truth nor mercy, nor know<g ref="char:EOLhyphen"/>ledge of God in the Land, by ſwearing and killing and ſtealing, and comitting Adul<g ref="char:EOLhyphen"/>tery, they break out and bloud <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>outcheth bloud; therefore ſhall the Land mourn, and every one that dwelleth therein ſhall languiſh with the beaſts of the field, and with the fowls of heaven, yea the fiſhes of the Sea alſo ſhall be taken away.</hi>
+            </p>
+            <p>If men will not mourn for their ſins, God will make them, yea, the very land, and all that is therein mourns for your ſins; if the mercy of God cannot work a godly ſorrow for your ſins, if mercy cannot melt your hearts by re<g ref="char:EOLhyphen"/>pentance, God hath judgements to lay upon you: if he cannot by intreaties per<g ref="char:EOLhyphen"/>ſwade ſinners to forſake their ſins, he will by compulſion, and that irreſiſta<g ref="char:EOLhyphen"/>bly caſt ſinners even into Hell fire for their ſins.</p>
+            <p>
+               <hi>The wicked</hi> ſaith the Pſalmiſt <hi>ſhall be turned into Hell.</hi> O conſider this ye that forget God<g ref="char:punc">▪</g> leaſt he tear you in pie<g ref="char:EOLhyphen"/>ces; How fully doth the Prophet here picture out <hi>Englands</hi> ſins: was there ever leſs mercy and truth amongſt us
+<pb facs="tcp:46844:11"/>then is at this day; and though know<g ref="char:EOLhyphen"/>ledge ſeems to abound, yet how little is there of the true knowledge of Jeſus Chriſt? we do all profeſs to know God with our mouths ah but how greatly do we deny him in our lives: never was there more ſwearing: and lying, and profanneſs, and ſtealing and all man<g ref="char:EOLhyphen"/>ner of wickneſs then is now amongſt us.</p>
+            <p>How doth our Land even begin to mourn for our abominations? how ſad<g ref="char:EOLhyphen"/>ly is the Lord departed from us of late, becauſe we by our iniquity have depar<g ref="char:EOLhyphen"/>ted from him? Is not the Lords hand now ſtretched out againſt us in all parts and places of this Nation? how ſorely is both the City and Countrey aſſiſted by infectious diſeaſes? How many thouſands are there ſuddenly ſwept away from us by this heavy judgement of God<g ref="char:punc">▪</g> the noiſome Plague and Peſtilence? And unleſs we that are leſt do ſpeedily repent us of our mani<g ref="char:EOLhyphen"/>fold ſins and wickedneſſes; we may juſtly fear to be taken our of the land of the living for our bleſſed Saviour ſaith, <hi>Luke</hi> 13.3. <hi>Except ye repent ye ſhall all
+<pb facs="tcp:46844:12"/>likewiſe periſh.</hi> Conſider how death hath ridden a horſe-back for ſome years by paſt, whereby the dumb creatures have ſmarted for our ſins: and ſhall not we mourn for theſe things: ſhall the beaſts of the Land mourn, and ſhall not we mourn for our ſins, which have cauſed theſe Judgements: Shall the judgements of God be abroad in our Land, and ſhall not we the inhabitants thereof learn righteouſneſs: God ſmites us now as it were with ſmall rods, but ſurely if we repent not, he will certain<g ref="char:EOLhyphen"/>ly ſcourge us even with Scorpions, for if that ſmaller judgements will not affrighten us from our evill ways<g ref="char:punc">▪</g> God hath greater judgements then all theſe yet to bring upon us God doth yet but let us ſee the rod of his anger but if we repent not we ſhall ſurely feel the weight of his ſore diſpleaſure ere long poured down upon us.</p>
+            <p>The good Lord awaken us unto repen<g ref="char:EOLhyphen"/>tance, that we may all of us from the higheſt to the loweſt turn from our evil ways, that ſo the anger of the Lord may be turned away from us that ſo our ſins may be blotted out of his re<g ref="char:EOLhyphen"/>membrance
+<pb facs="tcp:46844:12"/>and the Lords hand now ſtretched out againſt us in wrath, may be turned to us again in love: <hi>Then ſhall the Lord greatly delight in us, and cauſe us to dwell in our land: but if we will refuſe and rebel, we ſhall certainly be deſtroyed; for the mouth of the Lord hath ſpoken it.</hi>
+            </p>
+            <p>And becauſe the Lord hath now given a commiſſion to his deſtroying Angel to cut us off by a ſudden ſtroak, and that the King of Terrours, as holy <hi>Job</hi> calls Death is reigning in all our ſtreets ta<g ref="char:EOLhyphen"/>king away whole families in a ſmall ſpace of time: and that many of our neighbours and loving friends, and fa<g ref="char:EOLhyphen"/>miliar acquaintance are ſhut up and impriſoned in their own houſes by rea<g ref="char:EOLhyphen"/>ſon of this ſad judgement that is now amongſt us, and that they may juſtly call upon us, and ſay unto us as the in<g ref="char:EOLhyphen"/>habitants of <hi>Jeruſal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> did in another caſe, as you may read, <hi>Lament</hi> 1.12. <hi>Is it nothing to you, all ye that paſ's by? be<g ref="char:EOLhyphen"/>hold and ſee if there is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay ſorrow like unto our ſorrow which is done unto us, where<g ref="char:EOLhyphen"/>with the Lord hath afflicted us in the day of his fierce anger.</hi>
+            </p>
+            <p>This ſhould cauſe every one of us,
+<pb facs="tcp:46844:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46844:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46844:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46844:14"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:46844:15"/>even now in this our day, ſeriouſly to conſider and to lay it to our hearts, and to pray unto God day and night that he would remove this heavy judgement from us: for the Lord hath promised, <hi>Ezek</hi> 18.27. <hi>When the wicked turn away from their wickedneſs that they have com<g ref="char:EOLhyphen"/>mitted, and doth that which is lawful and right they ſhall ſave their ſouls alive.</hi> And likewiſe the Lord hath ſhewed us in 2 <hi>Chron.</hi> 7 13 14. How we may remove his judgements from us: at the 13. <hi>ver.</hi> he ſays: <hi>If I ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t up heaven that there be no rain, or if</hi> I <hi>command the locuſts to devour the land: or if</hi> I <hi>ſend the Peſtilence among my people,</hi> (as we of the City of London, any many other places of this kingdom do now ſadly feel) <hi>If my peo<g ref="char:EOLhyphen"/>ple which are called by my nature, ſhall humble themſelves, and pray, and ſeek my face, and turn from their wicked ways: then will</hi> I <hi>hear from heaven, and will for give them their ſin, and will heal their Land.</hi> And if the Lord be our Phyſician, we ſhall not need to fear any relapſe.</p>
+            <p>Now the Lord help every one of us ſeriouſly to conſider of theſe things O that every one of us would turn from all
+<pb facs="tcp:46844:15"/>our evil ways, and ſeek unto, the Lord by prayer and faſting: <hi>For who knoweth whether God will turn and rep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt and turn away his fierce anger that we periſh not.</hi>
+            </p>
+            <p>I ſhall conclude with the words of the the Prophet <hi>Joel,</hi> Chap. 2 12 13.14. <hi>Therefore alſo now ſaith the Lord, Turn ye even to me, with all your hearts, and with faſting, and with Weeping, and vvith mourning and rent your hearts, and not your garments, and turn to the Lord your God for he is gracious and merciful, ſlovv to anger and of great kindneſs, and repen<g ref="char:EOLhyphen"/>teth him of the evill: vvho knovveth if the vvith return and repent, and leave a bleſſing behind him. For the Lord our God is gra<g ref="char:EOLhyphen"/>cious and mercifull, and deſires not the death of a ſinner, but that he would turn from his evil way and live:</hi> which that we may all do, that ſo we may be all for ever happy<g ref="char:punc">▪</g> 
+               <hi>The grace of our Lord Jeſus Chriſt and the love of God the Father, and the comfortable felliwship of God the holy Spirit be with us, and dwel in all our hearts and conſciences, from this time forth and for evermore.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:46844:16"/>
+            <head>Books Printed for <hi>William Thackeray at the</hi> Angel <hi>in</hi> Duck-lane.</head>
+            <list>
+               <item>THe School of Grace, or a Book of good Nature.</item>
+               <item>Chriſts firſt Sermon.</item>
+               <item>Chriſts laſt Sermon,</item>
+               <item>Chriſtians beſt Garment.</item>
+               <item>Chriſtians bleſſed choice.</item>
+               <item>Heavens glory, and Hells horror,</item>
+               <item>A warning piece to the ſloathful, Idle, and careleſ drunken and ſecure ones of theſe times.</item>
+               <item>Mr. <hi>Fenners</hi> Sermons of Repentance.</item>
+               <item>A Sermon on <hi>Dives</hi> and <hi>Lazarus.</hi>
+               </item>
+               <item>The Chriſtians comfort.</item>
+               <item>
+                  <hi>Theſe are all very good Books, and are but, three pence a peice.</hi>
+               </item>
+               <item>The plain mans path way to Heaven.</item>
+               <item>The ſin of pride arrained and condemned.</item>
+               <item>The black Book of Conſcience.</item>
+               <item>The dreadful character of a drunkard,</item>
+               <item>The Fathers laſt bleſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to his Child<g ref="char:EOLhyphen"/>ren.</item>
+            </list>
+            <p>
+               <hi>Read them over carefully and practice them conſtantly: and reſt aſſuredly thou wilt find much comfort in them to thy own Soul: And are but two pence a peice.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
